@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="8G305q4fqkuxDhmZZTtrQQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAACZklEQVRYR+2XO4saYRSGjZ0XjFeIlQpqY2GnRSKIW2mlYCcGERE7mxRJKvMDBDVVvCCChYIWFqKgYGcZTH6BCLYKpooST875GIeZncFdsqum2Bce5nbOe16cAb9P8b/qFfIW+Yh8Rb79I9T7CQkg5Pko3SHfEXhmyJO8z+oD8geRM3gOyJtmyCqJyDVdgveISG+QX4hc8SWgWTST1xdErvCS0ExePxC5oktCM3n9RuSKLgnNZHqNyBVcA5r9EkAcQKlUnkVYK+T+c2GPEGEPIg4Qj8fhIQ0Gg/sm0Ol0uKcA4XAYFosFdyUVzRD0igNYLBYIBoMSCoUCax6Px3A8HsHlcvEmDoeD3ZtOp6wmm82yI/XIeZnNZr4XEQew2WyQSqUk1Go1Zur3+2G/30O5XOZNisUiHA4HCAQCrCaTybBjvV5nvVqtFnw+HzuPRCJ8H4c4wLlXQEPUajU0Gg3Y7Xag0+lAo9HAdruFdrsNdrud1cViMeh2u+ycRPdLpRJ3BSzoaR43WxxgNBqBXq8XkUwmWTOZeTwedp7P5yGXy7Fzr9fLB4hGo8yLwlEvfXgqlQoMBgPM5/Pz3wA9XC6XLLGQ2WzGzK1WK6sbDoewXq9htVrBZDJh904BEomEpJ+oVCqw2Wz4gBziAPSO+/2+BPpJ0+k03+h0OqHZbEKr1QK3283umUwm6PV6EAqFZD2IarUKRqOR90HEAW7ASwAWgHTTv2PSLRYkPxFeN1+SWZFrL0pppki0VJYrvgSSZflJN92YnETbpwUiZ/AUyPPBrdlJtJF8h3xGnro5JQ/yevTm9IpSKP4CzgZP+ENrJuUAAAAASUVORK5CYII=" Selector="&lt;html app='msedge.exe' title='BMS Mena' /&gt;" Title="BMS Mena" Url="https://bmsmena.com/" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="d0a03ef1226718f19932cdaccfcc87e2.jpg" xmlns="">0H7jjJyH5xkO-9czC5PNgMw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

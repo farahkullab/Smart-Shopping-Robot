@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Mub0zD6q-kOkG1yr0iR2fg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bmsmena.com" CVScreenId="8262e4d8-89fa-4262-8f95-e9663dc5ce19" DesignTimeRectangle="981, 276, 167, 59" DesignTimeScaleFactor="1.4249999523162842" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' placeholder='Search...' /&gt;" Guid="5ae09ec9-9454-4b10-8e21-cd32cddad868" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BMS Mena' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8262e4d8-89fa-4262-8f95-e9663dc5ce19" DesignTimeRectangle="981, 335, 112, 52" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="5cf79e5d-eb71-4150-8220-a5e4d725781e" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0766aa1794f776b6ecdf6018ee8953f6.png" xmlns="">0KE0lzsV-I02nbiO7WW5EIg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

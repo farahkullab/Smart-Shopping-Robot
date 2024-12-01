@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Update",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "iLjtwDQHBkGVF0lF3k432A",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/iLjtwDQHBkGVF0lF3k432A",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/Bf05sp6VAU2kDVa16jR6Ww",
+  "Created": "2024-11-09T09:32:27.0947263Z",
+  "Updated": "2024-11-09T09:32:27.0947263Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

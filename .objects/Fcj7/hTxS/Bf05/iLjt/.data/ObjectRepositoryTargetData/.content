@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RSm2plj81kS7vgOdDw9MiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="7ea13caf-bba5-4ba0-b4c9-54180d4ec0b5" DesignTimeRectangle="741, 637, 456, 85" DesignTimeScaleFactor="1.4249999523162842" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='Update' /&gt;" FuzzyAccuracy="0.9" Guid="282fba72-e85f-4625-b54b-f202610217a7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for Samsung Galaxy - ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8314e8d78b632f490106099313df806b.png" xmlns="">03deDAO6hAEGosySdLPAxCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

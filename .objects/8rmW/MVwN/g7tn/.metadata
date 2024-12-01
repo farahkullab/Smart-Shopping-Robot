@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge ما هو برنامج الخصومات؟ – JorMall",
+  "Type": "Screen",
+  "Id": "g7tngV_TY0qLd-NNGr7KQQ",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/g7tngV_TY0qLd-NNGr7KQQ",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/MVwNCVqWuE6-zQ7ZF4LHpA",
+  "Created": "2024-11-10T03:33:23.2209212Z",
+  "Updated": "2024-11-10T03:33:23.2209212Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

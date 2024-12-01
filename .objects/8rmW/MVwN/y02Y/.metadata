@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge JorMall's online store(1)",
+  "Type": "Screen",
+  "Id": "y02YjhP9FEKA0ShAM2E1_Q",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/y02YjhP9FEKA0ShAM2E1_Q",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/MVwNCVqWuE6-zQ7ZF4LHpA",
+  "Created": "2024-11-09T14:45:41.0728011Z",
+  "Updated": "2024-11-09T14:45:41.0728011Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

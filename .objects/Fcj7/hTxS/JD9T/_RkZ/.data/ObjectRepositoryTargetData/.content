@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MzBmofAIS0WVlf2la8W8jg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" DesignTimeRectangle="1170, 625, 52, 51" DesignTimeScaleFactor="1.4249999523162842" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='SPAN' parentclass='grid-3' /&gt;&lt;webctrl aria-role='img' tag='svg' /&gt;" FuzzyAccuracy="0.9" Guid="3ffaa6c7-a173-4352-ba1e-4d7e61c6f885" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*- ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="146, 169, 1625, 371" FullSelectorArgument="&lt;webctrl class='page-header__image' parentid='page-header' tag='DIV' /&gt;" Guid="6b0f9bfe-7ba7-45a2-a128-a2023ccdbcdd" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="92114e755eef56ba70cb359d4ca49f0f.png" xmlns="">0KjAP5fEVp0WDkV7KW-w0fg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

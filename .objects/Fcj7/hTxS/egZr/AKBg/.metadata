@@ -1,0 +1,14 @@
+﻿{
+  "Name": "INPUT dgwt-wcas-search-…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "AKBgpUHCK0CXn5VksvBhiw",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/AKBgpUHCK0CXn5VksvBhiw",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/egZrSOsNs0OR2vRsshaqbg",
+  "Created": "2024-11-09T09:53:59.6356242Z",
+  "Updated": "2024-11-09T09:53:59.6356242Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lsV4DXSMx0ujmEc1IzOlHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="a42a9117-d21a-4953-b343-b7ade4c1d4d7" DesignTimeRectangle="819, 634, 237, 36" DesignTimeScaleFactor="1.4249999523162842" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='SELECT' aria-label='Shop order' /&gt;" Guid="0870c5b5-c0aa-48a2-8abc-56b64b5b71c1" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='*- ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c8f988f0c93590a4c6ec48063158d426.png" xmlns="">0S2XfaWYVdEmFAWtXnyYZig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

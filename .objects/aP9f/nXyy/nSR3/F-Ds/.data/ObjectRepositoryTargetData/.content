@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VCpSPpPb0kKeJt7yedf-bw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bmsmena.com" CVScreenId="0fc93849-9cca-4c68-bf32-3db3fb0fae8b" DesignTimeRectangle="1686, 320, 89, 22" DesignTimeScaleFactor="1.4249999523162842" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='*EN*' tag='A' href='javascript:void(0);' /&gt;" Guid="d9987793-5680-45f7-933f-a59fbcf0d532" ScopeSelectorArgument="&lt;html app='msedge.exe' title='BMS Mena' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="625f54381338da8fa3942a6bf2522257.png" xmlns="">0aizNlsKhAkOhWi_dVUz2Nw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

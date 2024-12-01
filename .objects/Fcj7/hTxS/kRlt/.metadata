@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Shop online from Leaders Center  The lar(2)",
+  "Type": "Screen",
+  "Id": "kRltCKtdWk2Igv4Oj-3Wcw",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/kRltCKtdWk2Igv4Oj-3Wcw",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/hTxSCJuns0GYXWfbbMVMgQ",
+  "Created": "2024-11-09T09:52:08.5004697Z",
+  "Updated": "2024-11-09T09:52:08.5004697Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

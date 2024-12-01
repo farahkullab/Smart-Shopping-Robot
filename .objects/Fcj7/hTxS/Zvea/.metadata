@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge You searched for Samsung - ليدرز سنتر",
+  "Type": "Screen",
+  "Id": "Zvea6qUjKkye8eEbc9kF4Q",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/Zvea6qUjKkye8eEbc9kF4Q",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/hTxSCJuns0GYXWfbbMVMgQ",
+  "Created": "2024-11-09T10:34:56.8532175Z",
+  "Updated": "2024-11-09T10:34:56.8532175Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

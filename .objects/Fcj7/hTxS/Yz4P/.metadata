@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge You searched for Samsung TV QLED - ليدرز",
+  "Type": "Screen",
+  "Id": "Yz4PLK85BECAeu43k83_BQ",
+  "Reference": "rTJW0xcmUU-5r1eaBvGOGw/Yz4PLK85BECAeu43k83_BQ",
+  "ParentRef": "rTJW0xcmUU-5r1eaBvGOGw/hTxSCJuns0GYXWfbbMVMgQ",
+  "Created": "2024-11-09T12:26:45.3276076Z",
+  "Updated": "2024-11-09T12:26:45.3276076Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

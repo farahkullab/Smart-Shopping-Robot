@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WKM-v7K4Z0SEA6nk-PlmkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="7078f948-cd44-4e9a-b568-8622ce6b69ad" DesignTimeRectangle="834, 517, 130, 86" DesignTimeScaleFactor="1.4249999523162842" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='SELECT' name='language' /&gt;" Guid="859eaaa3-8c18-437d-9365-6ecc077a70db" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for Samsung Galaxy - ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b51209f8437f778eccc35bee48174d0e.png" xmlns="">0c63ugFM7Z0iMx2U2iDglUg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

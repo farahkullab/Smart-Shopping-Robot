@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SrCP_aEnD0-nqLTd7mD-1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="jormall.net" CVScreenId="46f69e9e-c30d-49ba-9126-ab1239b27c42" DesignTimeRectangle="1262, 228, 111, 43" DesignTimeScaleFactor="1.4249999523162842" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' aaname='                     English                                ' /&gt;" Guid="e3a0c096-ffe6-4d5e-b40f-1338ad400c19" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='JorMall&amp;apos;s online store' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="183b66a060c56f5bff4fb6772204c988.png" xmlns="">0AmnWvB67tkSLsmFpnXfsYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

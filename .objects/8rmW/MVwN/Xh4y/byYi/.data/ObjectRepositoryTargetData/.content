@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gFamErKc-EC8MOqUA7hesg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="jormall.net" CVScreenId="42ba2994-6233-4646-b313-800fe4f655f7" DesignTimeRectangle="313, 204, 820, 62" DesignTimeScaleFactor="1.4249999523162842" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' aria-label='Search...' /&gt;" Guid="59667b48-c82f-472c-9c0a-d826e2e51bdc" ScopeSelectorArgument="&lt;html app='msedge.exe' title='JorMall&amp;apos;s online store' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="42ba2994-6233-4646-b313-800fe4f655f7" DesignTimeRectangle="1133, 204, 72, 62" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aria-label='Search' /&gt;" Guid="7e6714a2-7253-4646-b96a-bdd3e913ee43" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0636bf0c3aab3158a9a9341bdb47ba0f.png" xmlns="">0LFgQh9L4XkWrdYGhDKLzMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
